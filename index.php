@@ -30,7 +30,7 @@
  </header>
 	<section id="con" class="con">
 	<div class="container">
-	text
+	text1 text2
 	</div>
 	</section> 
 	<footer>
