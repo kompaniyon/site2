@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
@@ -30,7 +30,7 @@
  </header>
 	<section id="con" class="con">
 	<div class="container">
-	text1 text2 text3 text4 text56
+	text1 text2 text3 text4 text568675
 	</div>
 	</section> 
 	<footer>
