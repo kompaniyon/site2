@@ -30,7 +30,11 @@
  </header>
 	<section id="con" class="con">
 	<div class="container">
+<<<<<<< HEAD
 	text1 text2 text3 text4 text568675
+=======
+	text1 text2 text3 text4 text567
+>>>>>>> g2
 	</div>
 	</section> 
 	<footer>
